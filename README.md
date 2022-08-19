@@ -17,6 +17,13 @@ Vidrame0
 Vidframe- 550
 ![videoframe550](https://user-images.githubusercontent.com/111579172/185628793-fa44d784-5202-4968-ad7a-1b46e438a918.jpg)
 
+Vidfram-675
+![videoframe675](https://user-images.githubusercontent.com/111579172/185629046-0d371c34-e56f-41d8-b7b0-ad619a9c6b71.jpg)
+
+Vidframe=807
+![videoframe807](https://user-images.githubusercontent.com/111579172/185629079-18d90658-68b4-4b4e-bf51-359501fe48f1.jpg)
+
+
 Vidframe-1060
 ![videoframe1060](https://user-images.githubusercontent.com/111579172/185628818-0b00f5f0-62f3-4bb8-a568-fb466a97e706.jpg)
 
