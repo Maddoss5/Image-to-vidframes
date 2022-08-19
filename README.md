@@ -6,4 +6,5 @@ Instead of using a list and distance function from a member in list to list you 
 
 # Further work 
 1.> Overlap a hand texture on where the work is being done to make it more presentable . 
+
 2.> Instead of coloring 1 pixel at a time you may do multiple pixels at a time .
